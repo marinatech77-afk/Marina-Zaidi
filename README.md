@@ -91,7 +91,7 @@ GitHub Actions • Azure DevOps • Terraform • Docker • Kubernetes
 
 # 📫 Connect With Me
 
-- 💼 LinkedIn: www.linkedin.com/in/marina-tech
+- 💼 LinkedIn:(https://www.linkedin.com/in/marina-shehzad-90b589409/)
 - 📧 Email: marinatech77@gmail.com
 
 ---
