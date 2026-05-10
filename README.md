@@ -54,5 +54,5 @@ Docker • Kubernetes • Terraform • GitHub Actions
 
 ## 📫 Connect With Me
 
-- LinkedIn: YOUR_LINKEDIN
+- LinkedIn:[ YOUR_LINKEDIN](https://www.linkedin.com/in/marina-shehzad-90b589409/)
 - Email: marinatech77@gmail.com
